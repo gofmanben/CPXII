@@ -1,0 +1,51 @@
+Postgres
+
+docker run --name bgofman-postgres -e POSTGRES_PASSWORD=mypassword -p 1234:5432 -d postgres
+
+docker images
+
+docker volume ls
+
+docker ps -a
+
+docker exec -it bgofman-postgres psql -U postgres 
+
+# CREATE TABLE users (id SERIAL PRIMARY KEY, first VARCHAR(50), last VARCHAR(50), password VARCHAR(15));
+
+# \dt
+
+# \l
+
+# \du
+
+# DROP DATABASE users;
+
+# \q
+
+docker stop bgofman-postgres
+
+docker rm bgofman-postgres
+
+MySQL
+
+docker run --name bgofman-mysql -e MYSQL_ROOT_PASSWORD=mypassword -p 1357:3306 -d mysql
+
+docker exec -it bgofman-mysql mysql -u root -p
+
+> SHOW DATABASES;
+
+> CREATE DATABASE test;
+
+> USE test;
+
+> CREATE TABLE users (id SERIAL PRIMARY KEY, first VARCHAR(50), last VARCHAR(50), password VARCHAR(15));
+
+docker stop bgofman-mysql
+
+docker rm bgofman-mysql
+
+
+Practice:
+https://sqlfiddle.com/
+https://leetcode.com/problemset/database/
+https://leetcode.com/u/bgofman/

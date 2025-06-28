@@ -1,0 +1,127 @@
+\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319,N/A,Ready
+\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64,N/A,Ready
+\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64 Critical,N/A,Disabled
+\Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 Critical,N/A,Disabled
+\Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated),N/A,Disabled
+\Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated),N/A,Disabled
+\Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Manual),N/A,Ready
+\Microsoft\Windows\AppID\PolicyConverter,N/A,Disabled
+\Microsoft\Windows\AppID\SmartScreenSpecific,N/A,Ready
+\Microsoft\Windows\AppID\VerifiedPublisherCertStoreCheck,N/A,Disabled
+\Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser,11/1/2019 4:15:03 AM,Ready
+\Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser,11/1/2019 4:57:45 AM,Ready
+\Microsoft\Windows\Application Experience\ProgramDataUpdater,N/A,Ready
+\Microsoft\Windows\Application Experience\StartupAppTask,N/A,Ready
+\Microsoft\Windows\ApplicationData\appuriverifierdaily,11/1/2019 3:00:00 AM,Ready
+\Microsoft\Windows\ApplicationData\appuriverifierinstall,11/2/2019 3:00:00 AM,Ready
+\Microsoft\Windows\ApplicationData\appuriverifierinstall,11/2/2019 3:00:00 AM,Ready
+\Microsoft\Windows\ApplicationData\CleanupTemporaryState,N/A,Ready
+\Microsoft\Windows\ApplicationData\DsSvcCleanup,N/A,Ready
+\Microsoft\Windows\AppxDeploymentClient\Pre-staged app cleanup,N/A,Disabled
+\Microsoft\Windows\Autochk\Proxy,N/A,Ready
+\Microsoft\Windows\Bluetooth\UninstallDeviceTask,N/A,Ready
+\Microsoft\Windows\CertificateServicesClient\UserTask,N/A,Ready
+\Microsoft\Windows\CertificateServicesClient\UserTask,N/A,Ready
+\Microsoft\Windows\CertificateServicesClient\UserTask,N/A,Ready
+\Microsoft\Windows\CertificateServicesClient\UserTask-Roam,N/A,Ready
+\Microsoft\Windows\CertificateServicesClient\UserTask-Roam,N/A,Ready
+\Microsoft\Windows\Chkdsk\ProactiveScan,N/A,Ready
+\Microsoft\Windows\CloudExperienceHost\CreateObjectTask,N/A,Ready
+\Microsoft\Windows\Customer Experience Improvement Program\Consolidator,11/1/2019 12:00:00 AM,Ready
+\Microsoft\Windows\Customer Experience Improvement Program\KernelCeipTask,N/A,Ready
+\Microsoft\Windows\Customer Experience Improvement Program\UsbCeip,N/A,Ready
+\Microsoft\Windows\Data Integrity Scan\Data Integrity Scan,11/27/2019 10:29:34 PM,Ready
+\Microsoft\Windows\Data Integrity Scan\Data Integrity Scan,11/27/2019 6:04:16 AM,Ready
+\Microsoft\Windows\Data Integrity Scan\Data Integrity Scan for Crash Recovery,N/A,Ready
+\Microsoft\Windows\Defrag\ScheduledDefrag,N/A,Ready
+\Microsoft\Windows\Device Information\Device,11/1/2019 4:55:14 AM,Ready
+\Microsoft\Windows\Device Information\Device,11/1/2019 4:37:07 AM,Ready
+\Microsoft\Windows\Diagnosis\Scheduled,N/A,Ready
+\Microsoft\Windows\DiskCleanup\SilentCleanup,N/A,Ready
+\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector,N/A,Disabled
+\Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticResolver,N/A,Disabled
+\Microsoft\Windows\DiskFootprint\Diagnostics,N/A,Ready
+\Microsoft\Windows\DiskFootprint\StorageSense,N/A,Ready
+\Microsoft\Windows\EDP\EDP App Launch Task,N/A,Ready
+\Microsoft\Windows\EDP\EDP Auth Task,N/A,Ready
+\Microsoft\Windows\ErrorDetails\EnableErrorDetailsUpdate,N/A,Disabled
+\Microsoft\Windows\ErrorDetails\ErrorDetailsUpdate,N/A,Ready
+\Microsoft\Windows\LanguageComponentsInstaller\Installation,N/A,Ready
+\Microsoft\Windows\LanguageComponentsInstaller\Installation,N/A,Ready
+\Microsoft\Windows\Location\Notifications,N/A,Ready
+\Microsoft\Windows\Location\WindowsActionDialog,N/A,Ready
+\Microsoft\Windows\Maintenance\WinSAT,N/A,Disabled
+\Microsoft\Windows\Maps\MapsToastTask,N/A,Ready
+\Microsoft\Windows\Maps\MapsUpdateTask,N/A,Disabled
+\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents,N/A,Disabled
+\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents,N/A,Disabled
+\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents,N/A,Disabled
+\Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents,N/A,Disabled
+\Microsoft\Windows\MemoryDiagnostic\RunFullMemoryDiagnostic,N/A,Disabled
+\Microsoft\Windows\Mobile Broadband Accounts\MNO Metadata Parser,N/A,Ready
+\Microsoft\Windows\MUI\LPRemove,N/A,Ready
+\Microsoft\Windows\Multimedia\SystemSoundsService,N/A,Running
+\Microsoft\Windows\NetTrace\GatherNetworkInfo,N/A,Ready
+\Microsoft\Windows\Offline Files\Background Synchronization,N/A,Disabled
+\Microsoft\Windows\Offline Files\Logon Synchronization,N/A,Disabled
+\Microsoft\Windows\PLA\Server Manager Performance Monitor,N/A,Disabled
+\Microsoft\Windows\Plug and Play\Device Install Group Policy,N/A,Ready
+\Microsoft\Windows\Plug and Play\Device Install Reboot Required,N/A,Ready
+\Microsoft\Windows\Plug and Play\Plug and Play Cleanup,N/A,Ready
+\Microsoft\Windows\Plug and Play\Sysprep Generalize Drivers,N/A,Ready
+\Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem,N/A,Ready
+\Microsoft\Windows\RecoveryEnvironment\VerifyWinRE,N/A,Disabled
+\Microsoft\Windows\Registry\RegIdleBackup,N/A,Ready
+\Microsoft\Windows\Server Manager\CleanupOldPerfLogs,N/A,Ready
+\Microsoft\Windows\Server Manager\ServerManager,N/A,Ready
+\Microsoft\Windows\Servicing\StartComponentCleanup,N/A,Ready
+\Microsoft\Windows\SettingSync\BackgroundUploadTask,N/A,Ready
+\Microsoft\Windows\SettingSync\BackupTask,N/A,Ready
+\Microsoft\Windows\SettingSync\NetworkStateChangeTask,N/A,Ready
+\Microsoft\Windows\SettingSync\NetworkStateChangeTask,N/A,Ready
+\Microsoft\Windows\Shell\CreateObjectTask,N/A,Ready
+\Microsoft\Windows\Shell\IndexerAutomaticMaintenance,N/A,Ready
+\Microsoft\Windows\Software Inventory Logging\Collection,N/A,Disabled
+\Microsoft\Windows\Software Inventory Logging\Configuration,N/A,Ready
+\Microsoft\Windows\SoftwareProtectionPlatform\SvcRestartTaskLogon,N/A,Disabled
+\Microsoft\Windows\SpacePort\SpaceAgentTask,N/A,Ready
+\Microsoft\Windows\SpacePort\SpaceAgentTask,N/A,Ready
+\Microsoft\Windows\SpacePort\SpaceManagerTask,N/A,Ready
+\Microsoft\Windows\SpacePort\SpaceManagerTask,N/A,Ready
+\Microsoft\Windows\Storage Tiers Management\Storage Tiers Management Initialization,N/A,Ready
+\Microsoft\Windows\Storage Tiers Management\Storage Tiers Optimization,N/A,Disabled
+\Microsoft\Windows\Task Manager\Interactive,N/A,Ready
+\Microsoft\Windows\TextServicesFramework\MsCtfMonitor,N/A,Running
+\Microsoft\Windows\Time Synchronization\ForceSynchronizeTime,N/A,Ready
+\Microsoft\Windows\Time Zone\SynchronizeTimeZone,N/A,Ready
+\Microsoft\Windows\UpdateOrchestrator\Maintenance Install,N/A,Disabled
+\Microsoft\Windows\UpdateOrchestrator\Policy Install,N/A,Disabled
+\Microsoft\Windows\UpdateOrchestrator\Reboot,N/A,Ready
+\Microsoft\Windows\UpdateOrchestrator\Refresh Settings,11/1/2019 1:56:53 PM,Ready
+\Microsoft\Windows\UpdateOrchestrator\Resume On Boot,N/A,Disabled
+\Microsoft\Windows\UpdateOrchestrator\Schedule Scan,10/31/2019 11:11:33 PM,Ready
+\Microsoft\Windows\UpdateOrchestrator\Schedule Scan,10/31/2019 11:28:38 PM,Ready
+\Microsoft\Windows\UpdateOrchestrator\Schedule Scan,10/31/2019 10:32:01 PM,Ready
+\Microsoft\Windows\UpdateOrchestrator\USO_UxBroker_Display,N/A,Ready
+\Microsoft\Windows\UpdateOrchestrator\USO_UxBroker_ReadyToReboot,N/A,Ready
+\Microsoft\Windows\UPnP\UPnPHostConfig,N/A,Ready
+\Microsoft\Windows\WDI\ResolutionHost,N/A,Ready
+\Microsoft\Windows\Windows Error Reporting\QueueReporting,10/31/2019 9:49:41 PM,Ready
+\Microsoft\Windows\Windows Error Reporting\QueueReporting,10/31/2019 10:17:58 PM,Ready
+\Microsoft\Windows\Windows Error Reporting\QueueReporting,10/31/2019 10:56:15 PM,Ready
+\Microsoft\Windows\Windows Filtering Platform\BfeOnServiceStartTypeChange,N/A,Ready
+\Microsoft\Windows\WindowsColorSystem\Calibration Loader,N/A,Disabled
+\Microsoft\Windows\WindowsColorSystem\Calibration Loader,N/A,Disabled
+\Microsoft\Windows\WindowsUpdate\Automatic App Update,10/31/2019 9:20:15 PM,Ready
+\Microsoft\Windows\WindowsUpdate\Automatic App Update,10/31/2019 9:08:52 PM,Ready
+\Microsoft\Windows\WindowsUpdate\Scheduled Start,N/A,Ready
+\Microsoft\Windows\WindowsUpdate\Scheduled Start,N/A,Ready
+\Microsoft\Windows\WindowsUpdate\Scheduled Start,N/A,Ready
+\Microsoft\Windows\WindowsUpdate\Scheduled Start,N/A,Ready
+\Microsoft\Windows\WindowsUpdate\sih,11/1/2019 12:19:20 AM,Ready
+\Microsoft\Windows\WindowsUpdate\sihboot,N/A,Ready
+\Microsoft\Windows\Wininet\CacheTask,N/A,Running
+\Microsoft\Windows\Workplace Join\Automatic-Device-Join,N/A,Disabled
+\Microsoft\XblGameSave\XblGameSaveTask,N/A,Ready
+\Microsoft\XblGameSave\XblGameSaveTaskLogon,N/A,Ready
+\User_Feed_Synchronization-{FCC9390A-F4A8-4CD4-AA78-715A41C366EA},11/1/2019 1:27:36 AM,Ready

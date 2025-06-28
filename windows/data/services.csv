@@ -1,0 +1,189 @@
+ActiveX Installer (AxInstSV),Manual,Stopped
+AllJoyn Router Service,Manual,Stopped
+App Readiness,Manual,Stopped
+Application Identity,Manual,Stopped
+Application Information,Manual,Running
+Application Layer Gateway Service,Manual,Stopped
+Application Management,Manual,Running
+AppX Deployment Service (AppXSVC),Manual,Stopped
+Auto Time Zone Updater,Disabled,Stopped
+Background Intelligent Transfer Service,Manual,Stopped
+Background Tasks Infrastructure Service,Auto,Running
+Base Filtering Engine,Auto,Running
+Bluetooth Support Service,Manual,Stopped
+Certificate Propagation,Manual,Running
+Client License Service (ClipSVC),Manual,Stopped
+CNG Key Isolation,Manual,Running
+COM+ Event System,Auto,Running
+COM+ System Application,Manual,Running
+Computer Browser,Disabled,Stopped
+Connected Devices Platform Service,Auto,Running
+Connected User Experiences and Telemetry,Auto,Running
+CoreMessaging,Auto,Running
+Credential Manager,Manual,Running
+Cryptographic Services,Auto,Running
+Data Sharing Service,Manual,Stopped
+DataCollectionPublishingService,Manual,Stopped
+DCOM Server Process Launcher,Auto,Running
+Device Association Service,Manual,Stopped
+Device Install Service,Manual,Stopped
+Device Management Enrollment Service,Manual,Stopped
+Device Setup Manager,Manual,Stopped
+DevQuery Background Discovery Broker,Manual,Stopped
+DHCP Client,Auto,Running
+Diagnostic Policy Service,Auto,Running
+Diagnostic Service Host,Manual,Stopped
+Diagnostic System Host,Manual,Stopped
+Distributed Link Tracking Client,Auto,Running
+Distributed Transaction Coordinator,Auto,Running
+dmwappushsvc,Manual,Stopped
+DNS Client,Auto,Running
+Downloaded Maps Manager,Auto,Stopped
+Embedded Mode,Manual,Stopped
+Encrypting File System (EFS),Manual,Stopped
+Enterprise App Management Service,Manual,Stopped
+Extensible Authentication Protocol,Manual,Stopped
+Function Discovery Provider Host,Manual,Stopped
+Function Discovery Resource Publication,Manual,Stopped
+Geolocation Service,Manual,Running
+Group Policy Client,Auto,Running
+Human Interface Device Service,Manual,Stopped
+HV Host Service,Manual,Stopped
+Hyper-V Data Exchange Service,Manual,Stopped
+Hyper-V Guest Service Interface,Manual,Stopped
+Hyper-V Guest Shutdown Service,Manual,Stopped
+Hyper-V Heartbeat Service,Manual,Stopped
+Hyper-V PowerShell Direct Service,Manual,Stopped
+Hyper-V Remote Desktop Virtualization Service,Manual,Stopped
+Hyper-V Time Synchronization Service,Manual,Stopped
+Hyper-V Volume Shadow Copy Requestor,Manual,Stopped
+IKE and AuthIP IPsec Keying Modules,Auto,Running
+Interactive Services Detection,Manual,Stopped
+Internet Connection Sharing (ICS),Manual,Stopped
+IP Helper,Auto,Running
+IPsec Policy Agent,Manual,Running
+KDC Proxy Server service (KPS),Manual,Stopped
+KtmRm for Distributed Transaction Coordinator,Manual,Stopped
+Link-Layer Topology Discovery Mapper,Manual,Stopped
+LSM,Unknown,Running
+Microsoft (R) Diagnostics Hub Standard Collector Service,Manual,Stopped
+Microsoft Account Sign-in Assistant,Manual,Stopped
+Microsoft App-V Client,Disabled,Stopped
+Microsoft iSCSI Initiator Service,Manual,Stopped
+Microsoft Passport Container,Manual,Stopped
+Microsoft Passport,Manual,Stopped
+Microsoft Software Shadow Copy Provider,Manual,Stopped
+Microsoft Storage Spaces SMP,Manual,Stopped
+Net.Tcp Port Sharing Service,Disabled,Stopped
+Netlogon,Manual,Stopped
+NetSetupSvc,Unknown,Stopped
+Network Connection Broker,Manual,Running
+Network Connections,Manual,Stopped
+Network Connectivity Assistant,Manual,Stopped
+Network List Service,Manual,Running
+Network Location Awareness,Auto,Running
+Network Store Interface Service,Auto,Running
+Offline Files,Disabled,Stopped
+Optimize drives,Manual,Stopped
+Performance Counter DLL Host,Manual,Stopped
+Performance Logs &amp; Alerts,Manual,Stopped
+Phone Service,Manual,Stopped
+Plug and Play,Manual,Running
+Portable Device Enumerator Service,Manual,Stopped
+Power,Auto,Running
+Print Spooler,Auto,Running
+Printer Extensions and Notifications,Manual,Stopped
+Problem Reports and Solutions Control Panel Support,Manual,Stopped
+Program Compatibility Assistant Service,Auto,Running
+Quality Windows Audio Video Experience,Manual,Stopped
+Radio Management Service,Manual,Stopped
+Remote Access Auto Connection Manager,Manual,Stopped
+Remote Access Connection Manager,Manual,Stopped
+Remote Desktop Configuration,Manual,Stopped
+Remote Desktop Services UserMode Port Redirector,Manual,Stopped
+Remote Desktop Services,Disabled,Stopped
+Remote Procedure Call (RPC) Locator,Manual,Stopped
+Remote Procedure Call (RPC),Auto,Running
+Remote Registry,Disabled,Stopped
+Resultant Set of Policy Provider,Manual,Stopped
+Routing and Remote Access,Disabled,Stopped
+RPC Endpoint Mapper,Auto,Running
+Secondary Logon,Manual,Stopped
+Secure Socket Tunneling Protocol Service,Manual,Stopped
+Security Accounts Manager,Auto,Running
+Sensor Data Service,Manual,Stopped
+Sensor Monitoring Service,Manual,Stopped
+Sensor Service,Manual,Stopped
+Server,Auto,Running
+Shell Hardware Detection,Auto,Running
+Smart Card Device Enumeration Service,Manual,Stopped
+Smart Card Removal Policy,Manual,Stopped
+Smart Card,Disabled,Stopped
+SNMP Trap,Manual,Stopped
+Software Protection,Auto,Stopped
+Special Administration Console Helper,Manual,Stopped
+Spot Verifier,Manual,Stopped
+SSDP Discovery,Manual,Running
+State Repository Service,Manual,Running
+Still Image Acquisition Events,Manual,Stopped
+Storage Service,Manual,Running
+Storage Tiers Management,Manual,Stopped
+Superfetch,Manual,Stopped
+System Event Notification Service,Auto,Running
+System Events Broker,Auto,Running
+Task Scheduler,Auto,Running
+TCP/IP NetBIOS Helper,Manual,Running
+Telephony,Manual,Stopped
+Themes,Auto,Running
+Tile Data model server,Auto,Running
+Time Broker,Manual,Running
+Touch Keyboard and Handwriting Panel Service,Manual,Stopped
+TP AutoConnect Service,Manual,Stopped
+TP VC Gateway Service,Manual,Stopped
+Update Orchestrator Service for Windows Update,Manual,Running
+UPnP Device Host,Manual,Stopped
+User Access Logging Service,Auto,Running
+User Experience Virtualization Service,Disabled,Stopped
+User Manager,Auto,Running
+User Profile Service,Auto,Running
+Virtual Disk,Manual,Stopped
+VMware Alias Manager and Ticket Service,Auto,Running
+VMware CAF AMQP Communication Service,Manual,Stopped
+VMware CAF Management Agent Service,Auto,Running
+VMware Physical Disk Helper Service,Auto,Running
+VMware Snapshot Provider,Manual,Stopped
+VMware Tools,Auto,Running
+Volume Shadow Copy,Manual,Stopped
+WalletService,Manual,Stopped
+Windows Audio Endpoint Builder,Manual,Running
+Windows Audio,Auto,Running
+Windows Biometric Service,Auto,Stopped
+Windows Camera Frame Server,Manual,Stopped
+Windows Connection Manager,Auto,Running
+Windows Defender Network Inspection Service,Manual,Stopped
+Windows Defender Service,Manual,Stopped
+Windows Driver Foundation - User-mode Driver Framework,Manual,Running
+Windows Encryption Provider Host Service,Manual,Stopped
+Windows Error Reporting Service,Manual,Stopped
+Windows Event Collector,Manual,Stopped
+Windows Event Log,Auto,Running
+Windows Firewall,Auto,Running
+Windows Font Cache Service,Auto,Running
+Windows Image Acquisition (WIA),Manual,Stopped
+Windows Insider Service,Manual,Stopped
+Windows Installer,Manual,Stopped
+Windows License Manager Service,Manual,Running
+Windows Management Instrumentation,Auto,Running
+Windows Mobile Hotspot Service,Manual,Stopped
+Windows Modules Installer,Manual,Stopped
+Windows Push Notifications System Service,Auto,Running
+Windows Remote Management (WS-Management),Auto,Running
+Windows Search,Disabled,Stopped
+Windows Time,Auto,Running
+Windows Update,Manual,Running
+WinHTTP Web Proxy Auto-Discovery Service,Manual,Running
+Wired AutoConfig,Manual,Stopped
+WMI Performance Adapter,Manual,Stopped
+Workstation,Auto,Running
+Xbox Live Auth Manager,Manual,Stopped
+Xbox Live Game Save,Manual,Stopped

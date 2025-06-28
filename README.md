@@ -1,6 +1,16 @@
 # CPXII Scripts Project
 
-This repository contains various scripts, network scenarios, and learning resources for Cisco Packet Tracer and network administration.
+This repository contains various scripts, network scenarios, and learning resources for Cisco Packet Tracer and Windows system administration.
+
+The content was developed as part of participation in CyberPatriot XII (October–December 2019), a national cybersecurity competition organized by the Air Force Association.
+
+During the tournament, our team — representing Civil Air Patrol, Palo Alto, CA — focused on securing Windows 10 and Ubuntu systems, managing vulnerabilities, configuring firewalls, scanning user accounts, and monitoring software installations.
+
+We achieved 42nd place out of 4,324 teams in the Platinum Tier (top 1.2% nationwide), gaining hands-on experience with:
+
+- 🪟 Microsoft Windows Server & Windows 10
+- 🐧 Ubuntu 8 & 16
+- 🌐 Cisco Packet Tracer for network simulation and defense
 
 ## Project Structure
 
@@ -45,17 +55,17 @@ This repository contains various scripts, network scenarios, and learning resour
 
 ### windows
 - **Scripts:**
-  - `windows/source/features.py` — Enables or manages Windows optional features.
-  - `windows/source/firewall.py` — Configures or retrieves Windows Firewall settings.
-  - `windows/source/localpolicies.py` — Handles local security policy configurations.
-  - `windows/source/localusers_groups.py` — Manages local users and groups.
-  - `windows/source/other.py` — Performs miscellaneous Windows system-related tasks.
-  - `windows/source/programsdirectory.py` — Scans or analyzes the Program Files directory.
-  - `windows/source/services.py` — Performs Windows system-related tasks.
-  - `windows/source/shares.py` — Lists or configures shared folders.
-  - `windows/source/taskscheduler.py` — Reads or modifies scheduled tasks.
-  - `windows/source/uninstall.py` — Identifies or removes installed applications.
-  - `windows/source/usersdirectory.py` — Analyzes directories inside user profiles.
+  - `windows/source/features.py` - Enables or manages Windows optional features.
+  - `windows/source/firewall.py` - Configures or retrieves Windows Firewall settings.
+  - `windows/source/localpolicies.py` - Handles local security policy configurations.
+  - `windows/source/localusers_groups.py` - Manages local users and groups.
+  - `windows/source/other.py` - Performs miscellaneous Windows system-related tasks.
+  - `windows/source/programsdirectory.py` - Scans or analyzes the Program Files directory.
+  - `windows/source/services.py` - Performs Windows system-related tasks.
+  - `windows/source/shares.py` - Lists or configures shared folders.
+  - `windows/source/taskscheduler.py` - Reads or modifies scheduled tasks.
+  - `windows/source/uninstall.py` - Identifies or removes installed applications.
+  - `windows/source/usersdirectory.py` - Analyzes directories inside user profiles.
 
 ### Scripts Overview
 - `linux/script1.sh`
